@@ -1,0 +1,5 @@
+*.azure
+*.xpr
+logs/*
+config/*
+*/log/*

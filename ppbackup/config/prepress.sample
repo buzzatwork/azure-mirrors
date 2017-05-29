@@ -1,0 +1,8 @@
+{
+  "AzureStorageAccount": "see keepass"
+ ,"AzureStorageKey": "see keepass"
+ ,"BlobContainer": "archives-prepress"
+ ,"LocalStoragePath": "unc path to archive location"
+ ,"EmailTo" : ""
+ ,"EmailCc" : ""
+ }
